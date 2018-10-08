@@ -1,0 +1,36 @@
+// .wrapper {
+//   background-color: white;
+// }
+
+.header-flat {
+  background-color: white;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.header-flat-name h1 {
+  font-size: 18px;
+}
+
+.header-flat-details {
+  display: flex;
+  align-items: center;
+  padding: 30px 30px 30px 0px;
+  // background-color: white;
+}
+
+.header-flat h1 {
+  font-size: 18px;
+  margin-top: 0px;
+}
+
+.header-flat p {
+  font-weight: normal;
+  font-size: 14px;
+  color: rgb(119, 119, 119);
+}
+
+.flat-description h2 {
+  font-size: 18px;
+  margin-top: 25px;
+}
